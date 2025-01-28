@@ -6,8 +6,8 @@
 //
 
 import Foundation
-import Observation
 import MapKit
+import Observation
 
 extension BaganTripDetailMapView {
     @Observable

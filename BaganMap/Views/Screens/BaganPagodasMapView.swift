@@ -7,7 +7,6 @@
 
 import SwiftUI
 import MapKit
-import Contacts
 
 struct BaganPagodasMapView: View {
     // MARK: - STATE PROPERTIES
