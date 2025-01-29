@@ -6,7 +6,7 @@ This iOS app, built with SwiftUI, loads data of famous Buddhist temples in Bagan
 
 - Swift Programming Language
 - SwiftUI Framework
-- MapKit Framewoek
+- MapKit Framework
 
 ## Acknowledgements
 
